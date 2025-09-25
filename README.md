@@ -22,6 +22,3 @@ Clone o repositório:
 ```bash
 git clone https://github.com/seuusuario/HYPR-MOCKUP.git
 cd HYPR-MOCKUP
-
-npm install
-
